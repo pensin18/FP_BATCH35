@@ -1,0 +1,4 @@
+amzn = 300
+msft=200
+msft=200
+msft=200
